@@ -1,8 +1,8 @@
 # Microservices Architecture with CICD Pipeline.
 **Summary**
-- The core aim of this API is to provide an environment for an exposed API and an exposed database to be able to practice
+> The core aim of this API is to provide an environment for an exposed API and an exposed database to be able to practice
 
-Requirements
+**Requirements**
 -	Create a Repo on  Github with main and dev branches for CI
 -	Push the zip file's code to the repo
 -	Create a Job In Jenkins (Jenkins running on AWS) to trigger job on every commit/push from Dev branch
